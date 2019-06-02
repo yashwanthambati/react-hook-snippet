@@ -1,0 +1,25 @@
+{
+    "name": "react-hooks",
+    "displayName": "React-Hooks",
+    "description": "React hooks code snippets",
+    "version": "1.1.0",
+    "publisher": "YashwanthStuff",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yashwanthambati/react-hook-snippet.git"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
