@@ -4,24 +4,23 @@ This is React Hooks code snippets for faster and efficient code
 
 
 ## Features
+
 Hooks are supported: `useState`, `useEffect`, `useContext`, `useCallback`, and `useMemo` ,`useRef`
 
 ### useState
-Type `ust` to `u`se `s`tate `h`ook!
+Type `ust` to useState
 
 
 ### useEffect
-Type `uef` to `u`se `e`ffect `h`ook!
-
+Type `uef` to useEffect
 
 
 ### useContext
-Type `uct` to `u`se `c`ontext `h`ook!
+Type `uct` to useContext
 
 ### useCallback
-Type `ucb` to `u`se `c`all `b`ack `h`ook!
-
+Type `ucb` to useCallback
 
 
 ### useMemo
-Type `umo` to `u`se `m`emo `h`ook!
+Type `umo` to useMemo
