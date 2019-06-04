@@ -7,6 +7,18 @@ This is React Hooks code snippets for faster and efficient code
 
 Hooks are supported: `useState`, `useEffect`, `useContext`, `useCallback`, and `useMemo` ,`useRef`
 
+### import useState
+Type `imrus` to  "Import React, { useState }"
+
+
+### import useEffect
+Type `imrue` to  "Import React, { useEffect }"
+
+
+### import useContext
+Type `imruc` to  "Import React, { useContext }"
+
+
 ### useState
 Type `ust` to useState
 
