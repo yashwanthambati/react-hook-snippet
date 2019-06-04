@@ -9,7 +9,9 @@ Hooks are supported: `useState`, `useEffect`, `useContext`, `useCallback`, and `
 
 ### import useState
 Type `imrus` to  "Import React, { useState }"
-
+<div>
+ <img src="./assets/Capture9.PNG">
+</div>
 
 ### import useEffect
 Type `imrue` to  "Import React, { useEffect }"
